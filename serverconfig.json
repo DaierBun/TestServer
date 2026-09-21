@@ -1,8 +1,8 @@
 {
-  "configVersion": 1,
-  "serverUrl": "https://your-current-tunnel.trycloudflare.com",
-  "serverOnline": true,
-  "gameVersion": "0.1.0",
-  "message": "Server online",
-  "updatedUtc": "2026-09-20T20:00:00.0000000Z"
+    "configVersion": 1,
+    "serverUrl": "https://citizens-riders-ought-principle.trycloudflare.com",
+    "serverOnline": true,
+    "gameVersion": "1.0",
+    "message": "",
+    "updatedUtc": "2026-09-21T00:03:27.8654515Z"
 }
